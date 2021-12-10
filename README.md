@@ -11,7 +11,7 @@ Complete audit of a Colorado election for a recent congressional seat.
   5. Determine the winner of the election based on the popular vote and the county with the highest voter turnout.
 
 ## Resources
-  - [Data Source: election_results.csv](/analysis/election_analysis.txt)
+  - [Data Source: election_results.csv](/Resources/election_results.csv)
   - Software: Python 3.8.8, PyCharm 2021.3 (Community Edition)
 
 ## Summary
