@@ -15,7 +15,7 @@ Complete audit of a Colorado election for a recent congressional seat.
   - Software: Python 3.8.8, PyCharm 2021.3 (Community Edition)
 
 ## Summary
-Election Results
+[Election Results](/election_results.txt)
 -------------------------
 Total Votes: 369,711
 -------------------------
