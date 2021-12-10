@@ -2,7 +2,7 @@
 OSU Module 3 Python
 
 ## Project Overview
-Complete audit of a Colorado election for a recent congressional seat.
+Complete audit of a Colorado election for a recent congressional seat. 
 
   1. Calculate total number of votes.
   2. Get a complete list of candidates who received votes.
@@ -22,7 +22,7 @@ Total Votes: 369,711
 
 ### County Votes:
 - Jefferson: 10.5% (38,855)
-- Denver: 82.8% (306,055) 
+- Denver: 82.8% (306,055) :+1:
 - Arapahoe: 6.7% (24,801)
 -------------------------
 ### Largest County Turnout:
@@ -31,7 +31,7 @@ Total Votes: 369,711
 ### Charles Casper Stockham:
   #### 23.0% (85,213)
 ### Diana DeGette:
-  #### 73.8% (272,892)
+  #### 73.8% (272,892) :+1:
 ### Raymon Anthony Doane:
   #### 3.1% (11,606)
 -------------------------
